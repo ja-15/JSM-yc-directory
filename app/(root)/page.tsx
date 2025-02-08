@@ -39,7 +39,7 @@ export default async function Home({searchParams}: {searchParams: Promise<{query
           <p className="no-results">No startups found</p>
         )
         }
-        
+      
       </ul>
     </section>
 
